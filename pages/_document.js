@@ -8,7 +8,7 @@ export default function Document() {
         <meta property="og:description" content="Teach your child👶🏿👶🏻🚸 anything by singing simple and easy to remember jingles" key="description"/>
         <meta
           property="og:image"
-          content="https://cdn.buildspace.so/courses/gpt3-writer/project-og.jpg"
+          content="/og_image.png"
         />
         <meta name="twitter:card" content="summary_large_image"></meta>
         <link rel="icon" href="/favicon.ico" />
